@@ -330,11 +330,10 @@ ASALocalRun/
 # MFractors (Xamarin productivity tool) working folder
 .mfractor/
 
-<<<<<<< HEAD
 # Other
 [Tt]est/
 [Tt]emp/
-=======
+
 # Local History for Visual Studio
 .localhistory/
->>>>>>> upstream/master
+
